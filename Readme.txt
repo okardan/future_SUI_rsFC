@@ -5,5 +5,5 @@ Instructions:
 First run SUI_in_ABCD_compile.R, then run SUI_abcd_PLS_main_and_supp.m, and then run SUI_in_ABCD_regressions.R
 
 Note:
-ABCD data should be downloaded from the NIH NDA website which requires the user to be a qualified researcher who agrres to the data 
+ABCD data should be downloaded from the NIH NDA website which requires the user to be a qualified researcher who agrees to the data 
 use terms: https://nda.nih.gov/study.html?id=2147 
